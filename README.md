@@ -1,20 +1,36 @@
-README.md
-# Evolução em Python: Lógica e Aprendizado
+# Python na Prática — Lógica, Estruturas e Automações
 
-Este repositório é um registro da minha jornada de aprendizado na linguagem Python. Aqui, reúno os códigos desenvolvidos durante o curso do professor Gustavo Guanabara (Curso em Vídeo), que tem sido fundamental para o meu desenvolvimento em lógica de programação.
+Repositório com programas desenvolvidos em Python cobrindo lógica de programação, estruturas de controle, e automações simples.
 
-## Sobre este repositório
-Este não é apenas um repositório de códigos prontos, mas sim um **diário de evolução**. Ao navegar por estas pastas, você verá o progresso da minha trajetória: desde os primeiros passos com estruturas simples até desafios mais complexos de lógica.
+## O que você encontra aqui
 
-## Uma nota sobre o código
-Vale ressaltar que nem todos os scripts aqui estão "perfeitos" ou seguem as melhores práticas avançadas de mercado. Alguns refletem o aprendizado de momentos iniciais, onde o foco principal era entender o funcionamento da linguagem. 
+| Programa | O que faz |
+|---|---|
+| `conversor_moeda.py` | Converte valores entre moedas com base em taxa de câmbio |
+| `conversor_de_medidas.py` | Converte unidades de medida (comprimento, peso, temperatura) |
+| `aluguel_de_carro.py` | Calcula custo de locação com base em dias e km rodados |
+| `desconto.py` | Calcula preço final aplicando percentual de desconto |
+| `salario.py` | Calcula salário líquido com diferenciações |
+| `media.py` | Calcula média de notas e classifica resultado |
+| `jogo da adivinhação.py` | Jogo interativo com controle de tentativas e feedback ao usuário |
+| `sorteio.py` / `sorteio02.py` | Sorteio aleatório com validação de entrada |
+| `tabuada.py` | Gerador de tabuada |
+| `temperatura.py` | Conversão entre Celsius, Fahrenheit |
+| `hiponusa.py` | Calcula hipotenusa com base no teorema de Pitágoras |
 
-O meu objetivo ao tornar este repositório público é:
-- **Demonstrar minha evolução:** Acompanhar como meu raciocínio lógico amadureceu ao longo do tempo.
-- **Registrar o aprendizado constante:** Mostrar que a programação é uma habilidade que se constrói passo a passo, através da prática e do erro.
-- **Portfólio:** Compartilhar um pouco do que tenho estudado enquanto me preparo para aplicar meus conhecimentos em Gestão Comercial e Análise de Dados.
+## Conceitos aplicados
 
-Estou sempre em busca de aprender e melhorar, então, feedbacks são sempre bem-vindos!
+- Variáveis, tipos de dados e operadores aritméticos
+- Estruturas condicionais (`if`, `elif`, `else`)
+- Funções e modularização
+- Entrada e saída de dados (`input`, `print`, formatação)
+- Importação de bibliotecas (`math`, `random`)
 
----
-*"O aprendizado é um processo contínuo e cada linha de código é um degrau a mais."*
+## Stack
+
+![Python](https://img.shields.io/badge/Python-3.x-blue?style=flat&logo=python)
+
+## Sobre
+
+Desenvolvido por **Fernanda Moura** — Analista de Dados Júnior com background em operações comerciais (Ambev).
+Conecte-se: [linkedin.com/in/fernandamoura96](https://linkedin.com/in/fernandamoura96)
