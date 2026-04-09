@@ -33,4 +33,4 @@ Repositório com programas desenvolvidos em Python cobrindo lógica de programa�
 ## Sobre
 
 Desenvolvido por **Fernanda Moura** — Analista de Dados Júnior com background em operações comerciais (Ambev).
-Conecte-se: [linkedin.com/in/fernandamoura96](https://linkedin.com/in/fernandamoura96)
+Conecte-se: [linkedin.com/in/fernanda-moura96](https://linkedin.com/in/fernanda-moura96)
